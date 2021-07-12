@@ -1,0 +1,24 @@
+title:  Rachel M. Lackner
+author:
+  name: 'Rachel M. Lackner'
+  # twitter:  wfwhitney
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'learning-4'
+
+# google-ID: 'UA-104146434-1'
+
+menu:
+- {name: 'Home', url: '/'}
+# - {name: 'About', url: 'menu/about.html'}
+- {name: 'Blog', url: '/menu/blog.html'}
+# - {name: 'Contact', url: 'contact.html'}
+- {name: 'Papers', url: '/menu/papers.html'}
+
+social:
+- {icon: 'envelope', link: 'mailto:rlackner@sas.upenn.edu'}
+# - {icon: 'rss', link: '/feed.xml'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
