@@ -18,7 +18,7 @@ menu:
 - {name: 'Papers', url: '/menu/papers.html'}
 
 social:
-- {icon: 'envelope', link: 'mailto:rlackner@sas.upenn.edu'}
+- {icon: 'envelope', link: 'mailto:rachel.lackner@gmail.com'}
 # - {icon: 'rss', link: '/feed.xml'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
