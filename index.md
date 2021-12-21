@@ -10,4 +10,4 @@ Before coming to Penn, I earned my undergraduate degree in Chemistry from [Yale 
 
 You can find me at the microscope or contact me at **rachel.lackner@gmail.com.**
 
-![rachel standing in front of a house](assets/img/updated_picture.jpg)
+![me](assets/img/updated_picture.jpg)
